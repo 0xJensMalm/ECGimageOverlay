@@ -6,13 +6,11 @@ This script is designed to anonymize a set of images by adding a "study_id" labe
 
 - **Anonymization**: Hides patient information by overlaying a solid rectangle over the specified area.
 - **Customizable Study ID**: Allows for the input of a unique study ID which is then overlayed onto the image.
-- **GUI for Ease of Use**: Comes with a Graphical User Interface (GUI) making it easy to select images and enter study IDs without the need for command-line interactions.
 
 ## Prerequisites
 
 To run this script, you will need Python installed on your system along with the following packages:
 - `PIL` (Pillow): For image processing functions.
-- `tkinter`: For the GUI components.
 
 ## Setup
 
